@@ -7,27 +7,27 @@ Back in College, I were swamped left and right with activities and projects, con
 So I created a Spreadsheet to monitor my activities and projects.
 
 📊 Activity Checker 
-Activity Checker is a fully-automated productivity and task management spreadsheet built in Google Sheets. 
+Activity Checker is a fully-automated productivity and task management spreadsheet built in Google Sheets. <br>
 It helps you stay on top of your deadlines, track your progress by category, and get visual insights into your pending and completed tasks — all in one place.
 
-🚀 Features
-✅ Auto-updating Countdown
-Automatically calculates and updates the "Days Left" column every day at 12:00 AM.
-
-📅 Upcoming & Overdue Tables
-Displays:
-
-Tasks due in the next 3 days
-A list of overdue activities
-
-📂 Smart Sorting & Filtering
-Sort and filter tasks by:
-
-Category (e.g., Course, Project, Birthday, Seminar)
-Status (Done or Pending)
-Due Date
-And more!
-
-📈 Visual Dashboards
-Category Status pie chart (Pending vs. Done)
+🚀 Features<br>
+✅ Auto-updating Countdown<br>
+Automatically calculates and updates the "Days Left" column every day at 12:00 AM.<br>
+<br>
+📅 Upcoming & Overdue Tables<br>
+Displays:<br>
+<br>
+Tasks due in the next 3 days<br>
+A list of overdue activities<br>
+<br>
+📂 Smart Sorting & Filtering<br>
+Sort and filter tasks by:<br>
+<br>
+Category (e.g., Course, Project, Birthday, Seminar)<br>
+Status (Done or Pending)<br>
+Due Date<br>
+And more!<br>
+<br>
+📈 Visual Dashboards<br>
+Category Status pie chart (Pending vs. Done)<br>
 
